@@ -2,13 +2,15 @@
 
 🌐 Full-Stack Developer | Cloud & Database Enthusiast
 
-Passionate about building scalable web applications and cloud solutions. Skilled in:
+Passionate about building scalable web applications and cloud solutions. 
+Skilled in:
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Python
-Databases: Relational (SQL) and Non-Relational (NoSQL) Databases
-Cloud & DevOps: AWS, Docker, Kubernetes
-Project Tools: Jira, ServiceNow
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Python
+- Databases: Relational (SQL) and Non-Relational (NoSQL) Databases
+- Cloud & DevOps: AWS, Docker, Kubernetes
+- Project Tools: Jira, ServiceNow
+  
 Always exploring new technologies and open to collaboration on innovative projects. 🌍💻
 
 <!--
